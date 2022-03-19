@@ -1,6 +1,8 @@
+It is an optional 2 person project for Advanced Programming (IN1503) at TUM. 
+
 # AdvProg_ODE_Solver
 
-Idea contributed by Gerasimos Chourdakis <chourdak@in.tum.de> and Hasan Ashraf <ashraf@in.tum.de>.
+Idea contributed by Gerasimos Chourdakis <chourdak@in.tum.de> and Hasan Ashraf <ashraf@in.tum.de>. The projetc description can be found under ode-solver.md file.
 
 It is implemented by Ceren Kartal <ceren.kartal@tum.de> and Samed Bayer <ge32cak@mytum.de>
 
